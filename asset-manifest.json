@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Metabolomics_Data_Explorer/static/css/main.aa99a0b8.chunk.css",
+    "main.js": "/Metabolomics_Data_Explorer/static/js/main.7d8e3cd6.chunk.js",
+    "main.js.map": "/Metabolomics_Data_Explorer/static/js/main.7d8e3cd6.chunk.js.map",
+    "runtime~main.js": "/Metabolomics_Data_Explorer/static/js/runtime~main.97cd71b4.js",
+    "runtime~main.js.map": "/Metabolomics_Data_Explorer/static/js/runtime~main.97cd71b4.js.map",
+    "static/js/2.98fe61f5.chunk.js": "/Metabolomics_Data_Explorer/static/js/2.98fe61f5.chunk.js",
+    "static/js/2.98fe61f5.chunk.js.map": "/Metabolomics_Data_Explorer/static/js/2.98fe61f5.chunk.js.map",
+    "index.html": "/Metabolomics_Data_Explorer/index.html",
+    "precache-manifest.c67e2652c077e1bb7bb8bef80ca1f912.js": "/Metabolomics_Data_Explorer/precache-manifest.c67e2652c077e1bb7bb8bef80ca1f912.js",
+    "service-worker.js": "/Metabolomics_Data_Explorer/service-worker.js",
+    "static/css/main.aa99a0b8.chunk.css.map": "/Metabolomics_Data_Explorer/static/css/main.aa99a0b8.chunk.css.map"
+  }
+}
