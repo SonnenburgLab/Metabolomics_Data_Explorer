@@ -1,0 +1,118 @@
+nav {
+  align-items: center;
+  background-color: white;
+  border-bottom: 1px solid #000;
+  display: flex;
+  padding: 12px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  list-style-type: none;
+  margin-left: 10px;
+}
+
+nav a {
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  color: #666;
+  line-height: 1.5;
+  padding: .375rem .75rem;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+a.active {
+  background-color: #eee;
+  color: #000;
+}
+
+footer {
+  background: white;
+  bottom: 0;
+  position: absolute;
+}
+
+.home {
+  font-weight: bold;
+}
+
+.App {
+  padding: 0 15px;
+}
+
+.form {
+  display: flex;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 1100px) {
+  .form {
+    flex-direction: column;
+  }
+}
+
+.form-group {
+  margin-right: 8px;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.dropdown {
+  margin-top: 6px;
+}
+
+.field-caption {
+  color: #666;
+  margin-top: 4px;
+  font-size: 12px;
+}
+
+#taxonomy {
+  width: 450px;
+}
+
+#media {
+  width: 500px;
+}
+
+#experiment {
+  width: 200px;
+}
+
+#metabolite {
+  min-width: 380px;
+}
+
+@media screen and (min-width: 640px) {
+  #metabolite {
+    min-width: 600px;
+  }
+}
+
+#mode {
+  width: 150px;
+}
+
+#colonization {
+  width: 300px;
+}
+
+#sample_type {
+  width: 200px;
+}
+
+.option-byline {
+  font-size: 12px;
+  margin-top: 4px;
+}
