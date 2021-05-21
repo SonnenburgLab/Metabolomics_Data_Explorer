@@ -1,7 +1,7 @@
 {
   "name": "metabolomics_plotter",
   "version": "0.1.0",
-  "homepage": "https://shuolhan.github.io/Metabolomics_Data_Explorer",
+  "homepage": "https://sonnenburglab.github.io/Metabolomics_Data_Explorer",
   "private": true,
   "dependencies": {
     "@nivo/scatterplot": "^0.59.3",
