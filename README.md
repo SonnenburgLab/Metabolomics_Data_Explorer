@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Metabolomics Data Explorer
+
+This repository hosts the Metabolomics Data Explorer, which enables interactive visualization of metabolomic datasets from Han and Van Treuren et al, 2021. The website is designed by Shuo Han and can be viewed [here](https://sonnenburglab.github.io/Metabolomics_Data_Explorer).
 
 ## Available Scripts
 
